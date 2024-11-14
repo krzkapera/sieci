@@ -8,4 +8,4 @@ Notatki z zajęć z sieci komputerowych:
 
 4. STP.
 
-5. ...
+5. Wi-Fi (dodatkowe) - jeszcze wrzucę na weekendzie
