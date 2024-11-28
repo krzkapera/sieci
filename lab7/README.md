@@ -1,5 +1,25 @@
 ### DHCP
 
+inne technologie: RARP, BOOTP
+
+DHCP – dynamic host configuration protocol
+- pusta adresów do przyznawania,
+- ograniczony czas wartości przypisania,
+- można zaszyć kawałek konfiguracji dla lekkich urządzeń
+
+DHCPDISCOVER (broadcast ograniczony (nieskierowany)) – host wysyła by znaleźć sewer DHCP.  
+DHCPREQUEST (też broadcast, bo odrzuca inne) – host dostaje czas ważności.  
+Po 50% czasu limitu przywiązania wysyłany DHCPREQUEST (może nie dojść bo UDP).  
+Po 87,5% ponownie.
+
+IRDP - ICMP Router Discovery Protocol - protokół komunikacyjny wykorzystywany przez stacje robocze i inne komputery do wyszukiwania routerów w ich podsieci. Protokół IRDP definiuje dwa nowe komunikaty ICMP:
+- Router Advertisement,
+- Router Solicitation.
+
+Pierwszy z nich zawiera informacje o routerze dostępnym w danej podsieci, a drugi stanowi żądanie udzielenia takiej informacji. 
+
+---  
+
 ![2 zestawy routera z komputerem](image.png)
 
 ### Konfiguracja (sieci) interfejsu routera
