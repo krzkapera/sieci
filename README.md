@@ -8,4 +8,8 @@ Notatki z zajęć z sieci komputerowych:
 
 4. STP.
 
-5. Wi-Fi (dodatkowe) - jeszcze wrzucę na weekendzie
+5. Wi-Fi (dodatkowe), agregacja łączy
+
+6. ARP
+
+7. DHCP
