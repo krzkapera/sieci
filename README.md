@@ -10,6 +10,12 @@ Notatki z zajęć z sieci komputerowych:
 
 5. Wi-Fi (dodatkowe), agregacja łączy
 
-6. ARP
+6. ARP, routing statyczny
 
-7. DHCP
+7. DHCP, autokonfiguracja
+
+8. VLSM
+
+9. RIP routing dynamiczny  (nie ma notatek)
+
+10. OSPF routing dynamiczny
