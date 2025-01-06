@@ -1,4 +1,4 @@
-... do uzupełnienia przez skrybę ...
+![Notatki](notatki.png)
 
 | Funkcje | network | network passive interface | redistribute connection |
 | - | :-: | :-: | :-: |

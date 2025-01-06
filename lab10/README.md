@@ -75,7 +75,7 @@ Podział na sektory:
 ![Podział na sektory](image-1.png)
 
 - A: 22 hosty -> 200.0.0.64-95 /27
-- A: 12 hostów -> 200.0.0.96-111 /28
+- B: 12 hostów -> 200.0.0.96-111 /28
 - C: 4 hostów -> 200.0.0.112-115 /30
 - D: 4 hostów -> 200.0.0.116-119 /30
 - E: 4 hostów -> 200.0.0.120-123 /30
