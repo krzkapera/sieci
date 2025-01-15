@@ -16,6 +16,12 @@ Notatki z zajęć z sieci komputerowych:
 
 8. VLSM
 
-9. RIP routing dynamiczny  (nie ma notatek)
+9. RIP routing dynamiczny
 
 10. OSPF routing dynamiczny
+
+11. routing między VLANami + PAT
+
+12. EIGRP + routing między VLANami + PAT
+
+13. DNS + port forwarding (dodatkowe)
