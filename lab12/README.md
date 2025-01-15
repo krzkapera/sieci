@@ -130,3 +130,32 @@ W zasadzie to to samo co w tym pdf w tym samym folderze...
 ![Schemat po zajęciach](1736964673396.jpg)
 
 😲🙃
+
+### Notatki z wprowadzenia
+
+![Metryka EIGRP](image-6.png)
+
+Co powoduje opóźnienie:
+- opóźnienie na przewodzie,
+- czas przetwarzania routera,
+- serializacja                 <- to się liczy w M
+
+L - najgorszy przypadek (load), procent zajętości bufora
+R - niezawodność
+
+**EIGRP jest ważne do egzaminu!**
+
+Metryka to średnia z 5 minut, obliczana co 30 sekund.
+
+Dlaczego K2 domyślnie wyłączone.  
+Bo dzielimy w sumie to samo przez siebie. (nie wiemy gdzie się coś wydarzyło)
+
+DUAL - główne zadanie to nie usuwanie cykli,  
+bardziej do aktualizacji sieci, ogranicza obszar aktualizacji, wymiana informacji o metrykach.
+
+**Też ważne do egzaminu!**
+
+RIP jest w UDP.  
+BGP jest w TCP.  
+OSPF tylko w IP.  
+EIGRP w **RTP** (RTP do EIGRP), potwierdzenie dostarczenia aktualizacji.
